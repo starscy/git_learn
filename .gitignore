@@ -44,4 +44,4 @@ nul
 /tmp-data
 /Icon*
 .DS_Store
-.phpunit.result.cache
+.phpunit.result.cache   
